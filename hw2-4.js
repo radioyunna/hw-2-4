@@ -32,7 +32,7 @@ for (let key in obj) {
 }
 
 
-// Задание 5
+//Задание 5
 
 let n = 1000;
 let num = 0;
