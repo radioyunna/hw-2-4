@@ -43,7 +43,7 @@ while (n >= 50) {
  console.log(n);
  console.log(num);
 
- // Задание 6
+ //Задание 6
 
  for (let dayNumber = 1; dayNumber <= 31; dayNumber+=7) {
     if (dayNumber % 7 === 0) {
